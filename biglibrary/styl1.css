@@ -1,0 +1,89 @@
+body{
+
+	background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)) , url("http://oakeydoak.co/wp-content/uploads/2018/07/book-wallpaper-design-prism-books-detail-landscape-hd-free-download.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+header{
+	width: auto;
+	overflow: auto;
+
+}
+.logo{
+	float: left;
+}
+.imgg{
+display: block;
+float: left;
+
+}
+.imgg h4{
+	text-align: center;
+}
+
+.imgg button{
+	display: block;
+	text-align: center;
+	margin-left: 60px;
+	margin-top: -30px;
+	font-size: 15px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.logo h1 a{
+text-decoration: none;
+color: #fff;
+font-size: 70px;
+}
+
+nav{
+
+	float: right;
+}
+nav ul{
+	width: auto;
+	overflow: auto;
+
+
+}
+nav ul li{
+	display: inline-block;
+list-style: none;
+padding: 10px 15px ;
+}
+
+nav ul li a{
+text-decoration: none;
+color: #fff;
+font-size: 25px;
+
+}
+#allimg{
+
+width: 115px;
+height: 170px;
+padding: -8px;
+margin: 45px;
+filter: grayscale(0%);
+}
+
+#allimg:hover{
+transform: scale(1.5);
+filter: grayscale(50%);
+
+}
+
+.tittlee{
+
+font-family: cursive;
+
+}
+
+
+
+
+
+
